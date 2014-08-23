@@ -35,7 +35,7 @@ If you are a Forensic Investigator, these are the steps you must to do in the or
 On the other hand, if you are a Network Security person or System Administrator, you must have this script 
 read, parse and store logs into the 'LinuxLogs.db' database preferably run this as root with the command:
 
-   To do this, you will use this command:
+      To do this, you will use this command:
 
          $sudo python LinuxLogs.py ­­resetDB 
 
