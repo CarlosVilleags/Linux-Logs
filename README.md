@@ -1,6 +1,10 @@
 Linux-Logs
 ==========
 
+Audio+Video presentation: http://youtu.be/uxaSTZv5k-8
+
+Slides: https://drive.google.com/file/d/0BwMw6ipu4nPzYlVhSktVWFU3SWM/edit?usp=sharing
+
 Linux Logs is an open source tool developed to assist Forensics Investigators, Network Security folks and 
 System Administrators by parsing either live host logs or extracted logs from a forensic disk image and 
 consolidating logs of forensic interest into an SQL database to allow Forensics Investigators the ability 
