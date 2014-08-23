@@ -60,3 +60,10 @@ C. Query the 'LinuxLogs.db' database for all events accross all logs that occure
 D. Quey the 'LinuxLogs.db' database for all events that contain a string of interest within their description field.
 
    use this command:  $python LinuxLogs.py ­­stringMatch 'chown'
+
+
+Your feedback is important! 
+
+Please send it to:
+Carlos Villegas
+cv127.0.0.1+GitHub[at]gmail[dot]com
