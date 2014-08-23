@@ -46,20 +46,28 @@ Once the database is populated, you can do any or all following in any order you
 
 A. Query which logs were parsed and stored into the 'LinuxLogs.db' database'
 
-   use this command:  $python LinuxLogs.py ­­logs 
+   use this command:  
+      
+      $python LinuxLogs.py ­­logs 
 
 B. Query an entire log to display all events associated with only one logID that are store in the 'LinuxLogs.db'
    database'
 
-   use this command:  $python LinuxLogs.py ­­contents 8 
+   use this command:  
+      
+      $python LinuxLogs.py ­­contents 8 
 
 C. Query the 'LinuxLogs.db' database for all events accross all logs that occured the within a date/time window'
 
-   use this command:  $python LinuxLogs.py ­­query '2014­07­24 17:45:06, 2000'
+   use this command:  
+      
+      $python LinuxLogs.py ­­query '2014­07­24 17:45:06, 2000'
 
 D. Quey the 'LinuxLogs.db' database for all events that contain a string of interest within their description field.
 
-   use this command:  $python LinuxLogs.py ­­stringMatch 'chown'
+   use this command:  
+      
+      $python LinuxLogs.py ­­stringMatch 'chown'
 
 
 Your feedback is important! 
