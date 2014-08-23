@@ -27,7 +27,7 @@ If you are a Forensic Investigator, these are the steps you must to do in the or
 
    2. Have this script read, parse and store logs into the 'LinuxLogs.db' database
 
-         To do this, you will use this command:  
+      To do this, you will use this command:  
 
          $python LinuxLogs.py ­­rootDir 'FooBarDir' 
 
