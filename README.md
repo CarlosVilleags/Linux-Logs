@@ -35,11 +35,11 @@ If you are a Forensic Investigator, these are the steps you must to do in the or
 On the other hand, if you are a Network Security person or System Administrator, you must have this script 
 read, parse and store logs into the 'LinuxLogs.db' database preferably run this as root with the command:
 
-To do this, you will use this command:
+   To do this, you will use this command:
 
          $sudo python LinuxLogs.py ­­resetDB 
 
-Running the above command with root privileges will give you read access to /var/log/btmp log file.
+   Running the above command with root privileges will give you read access to /var/log/btmp log file.
 
 
 Once the database is populated, you can do any or all following in any order you want any number of times:
